@@ -105,24 +105,6 @@ Recomendaciones automáticas
 
 Conexiones a fuentes externas de información turística
 
-TFM-Turismo-Inteligente/
-│
-├── data/
-│   ├── activity_age_association.csv
-│   └── base_cluster.xlsx
-│
-├── docs/
-│   └── Trabajo Fin de Master Alejandra Otero Leyton.pdf
-│
-├── models/
-│   └── README.md   # El modelo .h5 no se incluye por límites de GitHub
-│
-├── notebooks/
-│   └── Tesis_Master.ipynb
-│
-└── README.md   # este archivo
-
-
 ⚠️ Sobre el Modelo .h5
 
 El modelo entrenado (age_prediction_model.h5) no se incluye debido a restricciones de tamaño de GitHub (límite de 100 MB).

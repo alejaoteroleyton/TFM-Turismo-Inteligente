@@ -122,6 +122,7 @@ TFM-Turismo-Inteligente/
 │
 └── README.md   # este archivo
 
+
 ⚠️ Sobre el Modelo .h5
 
 El modelo entrenado (age_prediction_model.h5) no se incluye debido a restricciones de tamaño de GitHub (límite de 100 MB).

@@ -59,11 +59,13 @@ Agrupa actividades según cercanía euclidiana entre categorías.
 
 Asignación final por grupos etarios:
 
-Rango de Edad	Actividades
-15–26	y6, y8, y10, y13, y14, y22, y24, y27, y29
-27–38	y7, y9, y15, y16, y17, y18, y19, y20, y21, y23, y25, y26, y30
-39–50	y1, y2, y3, y12, y28
-51–62 y 63+	y4, y5, y11, y31
+| Rango de Edad | Actividades                                                   |
+| ------------- | ------------------------------------------------------------- |
+| 15–26         | y6, y8, y10, y13, y14, y22, y24, y27, y29                     |
+| 27–38         | y7, y9, y15, y16, y17, y18, y19, y20, y21, y23, y25, y26, y30 |
+| 39–50         | y1, y2, y3, y12, y28                                          |
+| 51–62 y 63+   | y4, y5, y11, y31                                              |
+
 3️⃣ Red Neuronal Convolucional (CNN)
 
 Dataset: UTKFace (23.7K imágenes)

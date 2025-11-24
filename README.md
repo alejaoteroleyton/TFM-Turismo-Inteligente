@@ -42,11 +42,8 @@ Limpieza e integración de 46.000+ registros de turismo receptivo.
 Selección de variables relevantes:
 
 Género
-
 Procedencia
-
 Rango de edad
-
 Actividades turísticas (31 categorías)
 
 2️⃣ Análisis de Correspondencias

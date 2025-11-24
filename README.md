@@ -20,7 +20,9 @@ Un sistema de recomendación basado en la edad estimada.
 Una aplicación web interactiva construida en Streamlit.
 
 🧩 Arquitectura del Proyecto
+
 flowchart TD
+   
     A[Base SITUR Valle] --> B[Procesamiento y limpieza de datos]
     B --> C[Análisis de Correspondencias]
     C --> D[Asignación de actividades por edad]
@@ -31,6 +33,7 @@ flowchart TD
     F --> G
     
     G --> H[App Streamlit]
+
 📊 Componentes del Proyecto
 1️⃣ Procesamiento de Datos
 
